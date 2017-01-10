@@ -1,6 +1,8 @@
-# ClickTime-Maps
+#Waypoint Mapper
+A simple implementation of the Google Maps API which uses geolocation to route the user from their current location to Soda Hall at UC Berkeley, with a stop in between. You use the search bar to enter the middle waypoint, and then directions will be displayed.
 
-Submission for ClickTime challenge.
-Created by Justin Lin
+Webpage:
+https://greenkee.github.io/Waypoint-Mapper/
 
-https://greenkee.github.io/ClickTime-Maps/
+To-Do:
+Fix issue where map does not always load and the user needs to refresh the page.
