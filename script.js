@@ -10,9 +10,9 @@ function main() {
 function initMap() {
     map_bounds = new google.maps.LatLngBounds();
 
-    end = {
-        lat: 37.785822,
-        lng: -122.397173    };
+    end = { //Lat / lng of Soda Hall at UC Berkeley
+        lat: 37.875744,
+        lng: -122.258840    };
     map = new google.maps.Map(document.getElementById('map'), {
         zoom: 12,
         center: end    });
